@@ -48,3 +48,9 @@ Samples are stored according to the VAE used, dataset used and the step size inv
 [3] Spectral Norm code from [NVAE Repository](https://github.com/NVlabs/NVAE)  
 [4] FID Calculations using [pytorch-fid](https://github.com/mseitzer/pytorch-fid) library  
 [5] Pretrained VAE from [disentangling-vae](https://github.com/YannDubs/disentangling-vae)
+
+## Collaborators
+1. Ritik Saxena
+2. Pulkit Gopalani
+3. Abhishek Shah
+4. Shivam Singhal
